@@ -191,7 +191,10 @@ textarea {
     overflow-x: hidden;
   }
 
-
+img {
+  width: 400px;
+  height: auto;
+}
   
 
 }
